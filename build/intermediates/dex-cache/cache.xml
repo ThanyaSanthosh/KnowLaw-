@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\knowlaw project\LawApplication\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\knowlaw project\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_2fec171e7c09df13e83f81fa5fc3ed99ff265213\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\LawApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_b8c710d0abba09316e4294c4ecfbd45057524568\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\LawApplication\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_9a84002c1de2d85ee66cbefda2fe68a4a03b8ef6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\LawApplication\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_fe3f873c69d028118cfe784c84de355a7f8efef4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\last\LawApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\last\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_1d7d57a399e01c55095bfcd2504fda8369d764e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\LawApplication\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_ba9f8cbc01266e97d55bacf4eaf08af9565b7319\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\last\LawApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9907042e60807a26870c833050d699cd1ebd4d86">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\last\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d282801bbcc2719267e2d6a2ed07c6d1b080a23e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\LawApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_803fa97056b59a55c01952f3faae32ab505baaf6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\last\LawApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\last\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_a1e1fe3b869f255a3ecd1843a0ad3c1d875bed6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\LawApplication\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_2f3884a89e082aae094ddb388cd1350cb7d140c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\LawApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_c42e5de221edf8ca33ea30b076356a719443bcbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\LawApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b361cca337715a4ebd1d4e0d5a362b7d1058aea8">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4022315ed1e85f77b59069728d7881da7a01194a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\last\LawApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\last\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_b07b0b69c0ae65854beed6f458c136f6cbe11d60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\knowlaw project\LawApplication\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\knowlaw project\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_95b811072e2ad99e849fc0a85e3d7e248f552a95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\LawApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_050ebcc7b4203116e3c9f14628a86723c5c36f75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\LawApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e08b698eb00b3471ea4573ff002d339d865ae128">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5feec6d9ee7436a6fed3590704105b094450676e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\last\LawApplication\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\last\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_e9734e346ab68e1b5bf3a3006227f0e693ad187b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\knowlaw project\LawApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\knowlaw project\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_60c4b90babce54a4e91b897eb1b887eb4fda7ff0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\LawApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_81faec0d54ef2dffa1838e66d28653e0ce4ae72b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\LawApplication\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_cbd173a8ea8e75e600419ba538797e313c235b97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\knowlaw project\LawApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\knowlaw project\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_4244960285a355ac20f3fd65fc90ac436f47f556\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\knowlaw project\LawApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\knowlaw project\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_c203549b19981204ab0c378396abdd7fc7cba594\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\LawApplication\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_218ea1ce483437e1c237aeadceaf38184e2f90b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\last\LawApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\last\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_fbc35b71a6c279c872eff626872b768c2e935d66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\knowlaw project\LawApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\knowlaw project\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_8412096143b14e8170de1c54961d801bc71d14f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\last\LawApplication\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\last\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_831e9d4d7976ddbc1add2c75cd94d98ec2431b97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\LawApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7353403f0b8ea3ca20dde8ff928c7f5e64366013">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3d5e987ff93eba9b49b4a34bc15149d85cb527f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\knowlaw project\LawApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\knowlaw project\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_db48cb4e73375fe9a5fc3c739488f46301e4dff1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\last\LawApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\last\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_bab12c451fb0b4b1b33dd1775aa68464f1b2e54d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\LawApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_d8f717028105f080ca22907acfcc5497ca5549f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\knowlaw project\LawApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf55ab77142ac214474d0c21fe598be46b5c272e">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\knowlaw project\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d48774ea5a960d23e04b6c2e12463c2573586ade\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_fde278e12dd0a1e4d2c4e0bee90cf29a362b57e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\knowlaw project\LawApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\knowlaw project\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_02720e8ec276755a3f63e8ee8d396d0b4088b9dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\last\LawApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\last\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_9a6c3d4003aba90d5621b387f5d416f1c2343eec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\last\LawApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\last\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_048f827cd7bfecc85746af947ade785be1a588de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\last\LawApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="310f3b9ba8f3ca754e67354028866e13a6511901">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\last\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d37c92111169364f801ea15be6e4a81aae34aec9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\LawApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_4e5a3b99b78d634c6cedac97427ed93c08905400\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\last\LawApplication\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\last\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_34e29c69d498a56c9fcb4803bfcb0c67a6b14c61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\knowlaw project\LawApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f0288dfd7e35b35144106d3b312048ca968bc424">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\knowlaw project\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6a6e4adeea154ed4e9936048b86cd779ac17b03a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\LawApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_a3362a21104a708f96291af6358a7db85f85d5f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\last\LawApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\last\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_9d70371dc28d13f02b1afcc1fed9ba9672e0bde6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\knowlaw project\LawApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\knowlaw project\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_6cf227876a2d6e4d06cf03a57d29737f29cc620c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\knowlaw project\LawApplication\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\knowlaw project\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_3c99011867086db1d075872b9d202898ff47793c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\LawApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_908063e04faee5f69b32664facb2b6e5da8db541\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\LawApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_27be39d594322b04da0e779b04695173f2ad0894\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\LawApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ff826b5bbc695f6ae5080b841edeed169c9bc4f">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5e9e575108aa0823082a897adffa20a74390a9aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\knowlaw project\LawApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\knowlaw project\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_918782f0ec2b5ae87e4589cebf5ed9a53cf494eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\LawApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_f1c72a9467de2ec489162b4b13aa14bd18a0c072\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\LawApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_076671d7fd919cf3a807c0407788a7573fd86d7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\LawApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\rwpc\AndroidStudioProjects\lawapp-thani\LawApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_e0e5cdd8ad2c20f666aa1a98a54f82c68a3606a4\classes.dex" />
+    </item>
+
+</items>
